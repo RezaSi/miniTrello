@@ -38,3 +38,30 @@
 .ui.segment:first-child {
     margin-top: 12px !important;
 }
+
+.closeBtn{
+    width: 20px;
+    height: 20px;
+    margin-right: -10px;
+    margin-top: -10px;
+    background-image: url("../img/close.png");
+    background-size: 100% 100%;
+    z-index: 999;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+}
+
+.closeBtn:hover{
+    transition: .05s;
+    width: 20px;
+    height: 20px;
+    margin-right: -10px;
+    margin-top: -10px;
+    background-image: url("../img/close_hover.png");
+    background-size: 100% 100%;
+    z-index: 999;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+}
