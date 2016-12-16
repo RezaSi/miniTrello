@@ -12,7 +12,7 @@
     left: 0;
 }
 .list-wrapper {
-    width: 270px;
+    width: 260px;
     margin: 0 5px;
     height: 95%;
     -moz-box-sizing: border-box;
@@ -37,6 +37,10 @@
 }
 .ui.segment:first-child {
     margin-top: 12px !important;
+}
+
+.ui.segment{
+    margin-right: 10px;
 }
 
 .closeBtn{
