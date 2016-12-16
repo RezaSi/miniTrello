@@ -1,3 +1,3 @@
 # miniTrello
 
-just download and open index.html :)
+just download(clone) and open index.html :)
